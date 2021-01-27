@@ -7,4 +7,4 @@ Created By:
 
   Kono botto o shiyō shite itadaki arigatōgozaimasu
   
-                                                    ┘
+                                        ┘
