@@ -22,6 +22,7 @@ Created By:
   ╰➤Create Sticker
   ╰➤Replay Photo To Sticker
   ╰➤Send Sticker To Photo
+ </p>
 
 
 ┌
