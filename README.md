@@ -5,6 +5,5 @@ Created By:
 </p>
 ┌
 
-  Kono botto o shiyō shite itadaki arigatōgozaimasu
-  
-                                        ┘
+    Kono botto o shiyō shite itadaki arigatōgozaimasu
+                                                     ┘
